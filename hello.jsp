@@ -1,13 +1,15 @@
-<html>
+<!DOCTYPE>
+<html xml:lang>
 <head>
 <title>Sample Application JSP Page</title>
 </head>
-<body bgcolor=white>
+<body>
 
 <table border="0">
+<th>
 <tr>
 <td align=center>
-<img src="images/tomcat.gif">
+<img src="images/tomcat.gif" alt="">
 </td>
 <td>
 <h1>Sample Application JSP Page</h1>
